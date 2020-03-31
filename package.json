@@ -1,0 +1,15 @@
+{
+  "name": "aggregator-service",
+  "version": "1.0.0",
+  "description": "aggregator-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rhythmraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
